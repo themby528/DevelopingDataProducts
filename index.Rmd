@@ -53,7 +53,7 @@ BMI = \frac {weight (lb)}{(height (ft)*12 + height(in))^2} * 703
 $$ 
 
 
-.fragment The results is then compared to a table for classification of Overweight and obesity ![width](Capture.png)
+.fragment The results is then compared to a table for classification of Overweight and obesity ![width](Capture.PNG)
 
 ---
 ## Can we do an example?
